@@ -1,0 +1,6 @@
+Django
+boto3
+djangorestframework
+django-storages
+psycopg2
+openai
